@@ -1,4 +1,4 @@
-issue : Insert link input field gets disable , can't enter any text.
+Issue : Insert link input field gets disable , can't enter any text.
 
 Steps to reproduce the problem.
 In Froala Editor Open Insert link
